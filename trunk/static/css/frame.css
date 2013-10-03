@@ -1,0 +1,39 @@
+.tool_title{
+    color: #b5b076;
+    font-size:13pt;
+    height:38px;
+}
+
+.field_label{
+	font-size:9pt;
+	font-weight:bold;
+	padding: 18px 0 3px 0;
+}
+
+.field_input{
+}
+
+.field_input input[type='text']{
+	border: solid 1px #999999;
+	height: 27px;
+	font-size:10pt;
+}
+
+.field_input select{
+	border: solid 1px #999999;
+	height: 27px;
+	font-size:10pt;
+}
+
+.field_error{
+	color: red;
+}
+
+.exec_button{
+	padding:7px 12px;
+	background-color: #b5b076;
+	color: white;
+	font-size:9pt;
+	cursor:pointer;
+	border:solid 1px #999999;
+}

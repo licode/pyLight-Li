@@ -1,0 +1,18 @@
+{
+"id": "dpc",
+"input": [
+    {"label": "Data file", "type": "file_select", "suffix": "h5"}
+    ],
+"output": [
+    {"name": "result", "type": "h5"},
+    {"name": "a", "type": "png"},
+    {"name": "gx", "type": "png"},
+    {"name": "gy", "type": "png"},
+    {"name": "phi", "type": "png"}
+    ],
+"command": "mpirun -np 32 ./DPC.py",
+"mode": "pbs",
+"title": "Differential Phase Contrast Imaging",
+"pbs_comments": ["-S /bin/bash", "-l nodes=1:ppn=32", "-N DPC"],
+"tutorial": "This code is implemented based on recently developed algorithm in HXN group."
+}

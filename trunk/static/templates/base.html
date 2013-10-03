@@ -1,0 +1,58 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <title>{% block title %}PyLight{% endblock %}</title>
+	<link rel="stylesheet" href="{% static "css/base.css" %}">
+	<script src="{% static "js/jquery.min.js" %}" type="text/javascript"></script>
+	<script>
+		$(document).ready(function(){
+			$("#{{ selected }}").addClass('selected').removeClass('menu');
+		});
+	</script>
+	{% block style %}
+    {% endblock %}
+    {% block scripts %}
+    {% endblock %}
+</head>
+
+
+<body style="background-color:white;">
+    <div id="topbar">
+    <div id="menubar">
+       	<div style="font-weight:bold;float:left;height:48px;width:238px;text-align:center;font-size:18pt;line-height:48px">
+       	<a style="text-decoration:none;color:black;" href="/">PYLIGHT</a></div>
+       	<div id="menu_tool" class="menu"><a href="/tool/">ANALYZE DATA</a></div>
+       	<div id="menu_workflow" class="menu"><a href="/workflow/">WORKFLOW</a></div>
+       	<div id="menu_visualization" class="menu"><a href="/visualization/">VISUALIZATION</a></div>
+       	<div id="menu_account" class="menu"><a href="/accounts/login/">ACCOUNT</a></div>
+       	<div id="menu_help" class="menu"><a href="/help/">HELP</a></div>
+        <div id="user">{{user}}</div>
+       	<div id="progressbar">Using 35.7 M</div>
+    </div>
+    </div>
+    <div id="leftbar">
+        {% block leftbar %}
+		&nbsp
+        {% endblock %}
+    </div>
+    <div id="content">
+        {% block content %}This is the content area {% endblock %}
+    </div>
+    <div id="rightbar">
+        {% block rightbar %}
+        {% endblock %}
+    </div>
+    <div class="footer">
+    		<div style="	border-top: solid 1px black">
+    		Brookhaven National Lab Copyright &copy 2013
+    		<a href="https://twitter.com/share" class="twitter-share-button" data-related="keith" data-count="none"></a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+   		</div>
+   	</div>
+</body>
+</html>
+
+
+
+

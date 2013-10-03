@@ -1,0 +1,14 @@
+[proxy:0:0@compute07] HYDU_create_process (./utils/launch/launch.c:69): execvp error on file filtered_back.py (No such file or directory)
+[proxy:0:0@compute07] HYDU_create_process (./utils/launch/launch.c:69): execvp error on file filtered_back.py (No such file or directory)
+Traceback (most recent call last):
+  File "collect.py", line 39, in <module>
+    collect3d(sys.argv[1])
+  File "collect.py", line 27, in collect3d
+    dict = scipy.io.loadmat('sub_tomo/'+name)
+  File "/software/anaconda/lib/python2.7/site-packages/scipy/io/matlab/mio.py", line 175, in loadmat
+    MR = mat_reader_factory(file_name, appendmat, **kwargs)
+  File "/software/anaconda/lib/python2.7/site-packages/scipy/io/matlab/mio.py", line 105, in mat_reader_factory
+    byte_stream = _open_file(file_name, appendmat)
+  File "/software/anaconda/lib/python2.7/site-packages/scipy/io/matlab/mio.py", line 79, in _open_file
+    return open(full_name, 'rb')
+IOError: [Errno 2] No such file or directory: 'sub_tomo/slice_0.mat'

@@ -1,0 +1,19 @@
+{
+"id": "ptychography",
+"input": [
+    {"label": "Data file", "type": "file_select", "suffix": "npy"},
+    {"label": "Object config file", "type": "file_select", "suffix": "npy"},
+    {"label": "Probe config file", "type": "file_select", "suffix": "npy"},
+    {"label": "Scan number", "type": "char"},
+    {"label": "Replicated number", "type": "char"},
+    {"label": "Iterations", "type": "int"}
+    ],
+"output": [
+    {"name": "result", "type": "png"},
+    {"name": "result", "type": "zip"}
+    ],
+"command": "python recon_ptycho_pc.py",
+"mode": "local",
+"title": "Ptychography",
+"tutorial": "Ptychography is a form of scanning diffractive imaging that can successfully retrieve the modulus and phase of both the sample transmission function and the illuminating probe."
+}

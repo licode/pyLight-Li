@@ -1,0 +1,27 @@
+{% extends "menu_base.html" %}
+
+{% block content %}
+<style>
+    #data1 
+    {
+        color:black;
+        text-align:center;
+        position: relative;
+        top: 50px;
+        /*left: 50px;*/
+        padding: 5% 20%;
+    }
+</style>
+
+    <div id=data1>
+    <h2>Register</h2>
+    <br>
+    <form action="/accounts/register/" method="post" style="text-align:left">{% csrf_token %}
+        {{form.as_p}}
+
+        <input type="submit" value="Register" />
+    </form>
+    </div>
+
+{% endblock %}
+

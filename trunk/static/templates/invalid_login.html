@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<style>
+    #data1 
+    {
+        color:black;
+        text-align:center;
+        position: relative;
+        top: 50px;
+        /*left: 50px;*/
+    }
+</style>
+    <div id=data1>
+        <h2>Your login details are invalid!</h2>
+        <br>
+        Click <a href="/accounts/login/">here</a> to login again.
+    </div>
+{% endblock %}

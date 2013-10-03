@@ -1,0 +1,20 @@
+{% extends "frame_base.html" %}
+{% load static %}
+{% block content %}
+<div class="tool_title">
+Tool: {{ tool_name }}
+<button onclick="window.location='/tool/rerun/{{job_id}}'" type="button" class="exec_button" style="float:right">Rerun</button>
+</div>
+<div class="basic_info">
+{% autoescape off %}{{basic_info}}{% endautoescape %}
+</div>
+<div class="inputs">
+<br><h3>Inputs:</h3><br>
+{% autoescape off %}{{input_info}}{% endautoescape %}
+</div>
+<div class="outputs">
+<br><h3>Outputs:</h3><br>
+{% autoescape off %}{{output_info}}{% endautoescape %}
+</div>
+
+{% endblock %}

@@ -1,0 +1,36 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Tool Menu</title>
+    <script src="{% static "js/jquery.min.js" %}" type="text/javascript"></script>
+	<script src="{% static "js/jquery.cookie.js" %}" type="text/javascript"></script>
+	<link rel="stylesheet" href="{% static "css/panel.css" %}">
+	<script> 
+	    $(document).ready(function(){
+	    		var viewportWidth = document.documentElement.clientWidth;
+	        var viewportHeight = document.documentElement.clientHeight;
+	       	window.resizeTo(viewportWidth, viewportHeight);
+		    $("div.sectionTitle > a").click(function(){
+	        		block = $(this).parent().find(".sectionContent");
+	        		block.slideToggle("fast");    		
+		    });
+	    });
+	</script>
+</head>
+
+
+<body style="margin:0;">
+<div style="text-align:left;width:100%;font-family: helvetica;">
+<form style="padding:10px 30px" id="searchbox" action="">
+	<input id="search" type="text" placeholder="Search tools">
+	<input id="submit" type="submit" value="Search">
+</form>
+{% autoescape off %}{{ menu }}{% endautoescape %}
+</div>
+</body>
+</html>
+
+
+
+

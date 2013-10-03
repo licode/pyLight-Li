@@ -1,0 +1,14 @@
+{
+"id": "tomography",
+"input": [
+	{"label": "File", "type": "file_select", "suffix": "h5"}
+    ],
+"output": [
+    {"name": "result", "type": "h5"}
+    ],
+"command": "./run.sh",
+"mode": "pbs",
+"title": "Tomography",
+"pbs_comments": ["-S /bin/bash", "-l nodes=1:ppn=8", "-N FBP"],
+"tutorial": "Tomography refers to imaging by sections or sectioning, through the use of any kind of penetrating wave. A device used in tomography is called a tomograph, while the image produced is a tomogram. Tomography as the computed tomographic (CT) scanner was invented by Sir Godfrey Hounsfield, and thereby made an exceptional contribution to medicine. The method is used in radiology, archaeology, biology, geophysics, oceanography, materials science, astrophysics, quantum Information, and other sciences. In most cases it is based on the mathematical procedure called tomographic reconstruction. The algorithm used is call Filtered Back Projection."
+}

@@ -1,0 +1,352 @@
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = make_fid(name, mode, userblock_size, fapl)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = make_fid(name, mode, userblock_size, fapl)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    self.file = h5py.File(inputfile)
+    dpc.fitAll(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    dpc.fitAll(inputfile)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+IOError: unable to create file (File accessability: Unable to open file)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+IOError: unable to create file (File accessability: Unable to open file)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+IOError: unable to create file (File accessability: Unable to open file)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 92, in fitAll
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+    self.file = h5py.File(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 165, in __init__
+    fid = make_fid(name, mode, userblock_size, fapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/files.py", line 75, in make_fid
+    fid = h5f.create(name, h5f.ACC_EXCL, fapl=fapl, fcpl=fcpl)
+  File "h5f.pyx", line 89, in h5py.h5f.create (h5py/h5f.c:1783)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)
+IOError: unable to create file (File accessability: Unable to open file)

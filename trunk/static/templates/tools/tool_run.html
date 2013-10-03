@@ -1,0 +1,22 @@
+{% extends "frame_base.html" %}
+{% load static %}
+{% block content %}
+<div class="tool_title">{{ tool_name }}</div>
+<form action="" method="post" 
+	{% if form.is_multipart %}enctype="multipart/form-data"{% endif %}>{% csrf_token %}
+	{% for field in form %}
+	<div class="field_label">{{ field.label_tag }}:</div>
+	<div class="field_input">{{ field }}</div>
+	<div class="field_error">{{ field.errors }}</div>
+	{% endfor %}
+	<div style="height:20px"></div>
+    <input class="exec_button" size="30" type="submit" name="submit" value="Execute"/>
+</form>
+
+<br>
+<br>
+<hr>
+<br>
+<div class="tool_title">{{ tool_tutorial }} </div>
+
+{% endblock %}

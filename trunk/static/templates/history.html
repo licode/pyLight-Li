@@ -1,0 +1,51 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame</title>
+	<link rel="stylesheet" href="{% static "css/panel.css" %}">
+	<link rel="stylesheet" href="{% static "css/base.css" %}">
+	<script src="{% static "js/jquery.min.js" %}" type="text/javascript"></script>
+	<script> 
+	    $(document).ready(function(){
+	        var viewportWidth = document.documentElement.clientWidth;
+	        var viewportHeight = document.documentElement.clientHeight;
+	       	window.resizeTo(viewportWidth, viewportHeight);
+	       	$(".summarytrigger").click(function(){
+	       		summary = $(this).siblings(".summary");
+	       		var display = summary.css("display");
+	       		if(display == "block"){
+	       			$(this).attr("src", '{% static "images/arrow_down.png" %}');
+	       		}
+	       		else{
+	       			$(this).attr("src", '{% static "images/arrow_up.png" %}');
+	       		}
+	       		summary.slideToggle("fast");       		
+	       	});
+	    });
+	</script>
+</head>
+
+<body>
+
+<script>
+function update(){
+	$.getJSON("/status/", function(json){
+		update_list = json['list'];
+		$.each(update_list, function(key, value){
+			$("#" + key).find('#jobstatus').html(value);
+		});
+		if(json['done'] == 0)
+			window.setTimeout(update, 5000);
+	});
+}
+$(document).ready(update);
+</script>
+<div style="text-align:left;width:100%">
+<div class="historytitle">{{ historytitle }}</div>
+{% autoescape off %}{{ content }}{% endautoescape %}
+</div>
+</body>
+</html>
+
+

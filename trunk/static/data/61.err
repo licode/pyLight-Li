@@ -1,0 +1,352 @@
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.row = self.file['/row'][0]
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.row = self.file['/row'][0]
+    dpc.fitAll(inputfile)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "./DPC.py", line 93, in fitAll
+    self.loadMeta()
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+  File "./DPC.py", line 34, in loadMeta
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+        self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.loadMeta()
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "./DPC.py", line 34, in loadMeta
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+    self.loadMeta()
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "./DPC.py", line 34, in loadMeta
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+Traceback (most recent call last):
+  File "./DPC.py", line 240, in <module>
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+    self.loadMeta()
+    dpc.fitAll(inputfile)
+  File "./DPC.py", line 93, in fitAll
+  File "./DPC.py", line 34, in loadMeta
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    self.loadMeta()
+  File "./DPC.py", line 34, in loadMeta
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+    self.row = self.file['/row'][0]
+  File "/software/anaconda/lib/python2.7/site-packages/h5py/_hl/group.py", line 130, in __getitem__
+    oid = h5o.open(self.id, self._e(name), lapl=self._lapl)
+  File "h5o.pyx", line 176, in h5py.h5o.open (h5py/h5o.c:2727)
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"
+KeyError: "unable to open object (Symbol table: Can't open object)"

@@ -1,0 +1,11 @@
+{% extends "frame_base.html" %}
+{% load static %}
+
+{% block content %}
+<script>
+	parent.frames['frame_right'].location.reload();
+</script>
+<p>Job has been scheduled to run.
+Please look at the history for results.
+</p>
+{% endblock %}

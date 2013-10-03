@@ -1,0 +1,29 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Frame</title>
+	<link rel="stylesheet" href="{% static "css/base.css" %}">
+	<link rel="stylesheet" href="{% static "css/frame.css" %}">
+	<script src="{% static "js/jquery.min.js" %}" type="text/javascript"></script>
+	<script> 
+	    $(document).ready(function(){
+	        var viewportWidth = document.documentElement.clientWidth;
+	        var viewportHeight = document.documentElement.clientHeight;
+	       	window.resizeTo(viewportWidth, viewportHeight);
+	    });
+	</script>
+</head>
+
+
+<body>
+	<div style="padding:48px 36px;text-align:justify;">
+	{% block content %}
+    {% endblock %}
+	</div>
+</body>
+</html>
+
+
+
+

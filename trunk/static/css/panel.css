@@ -1,0 +1,100 @@
+.panel_head{
+	height: 38px;
+	width: 100%;
+	border-bottom: solid 1px black;
+	font-size:11pt;
+	font-weight:bold;
+    line-height:38px;
+}
+
+.panel{
+	background-color:#d2cfae;
+	width: 100%;
+	height: 100%;
+}
+
+.panel_content{
+	position:absolute;
+	top: 39px;
+	left:0px;
+	bottom:0px;
+	width: 100%;
+}
+
+.jobitem{
+	padding: 3px 14px;
+	border-bottom: solid 1px #999999;
+    font-size:9pt;
+}
+.jobnumber{
+	color: #938f5a;
+	float: left;
+}
+.historytitle{
+	height: 30px;
+	line-height: 30px;
+	border-bottom: solid 1px black;
+	color: #938f5a;
+	text-align: center;
+	font-size: 10pt;
+}
+
+.delete_icon, .summarytrigger{
+    cursor:pointer;
+    height:10px;
+    float:right;
+}
+
+.summarytrigger{
+    margin-right:4px;
+}
+
+.jobtitle{
+    clear:both;
+    font-weight:bold;
+}
+.jobtitle a{
+    color:black;
+}
+
+#search{	
+	background-color: white;
+	border-width: 0;       
+	width: 125px;
+	height: 18px;
+	overflow: hidden; /* Clear floats */
+	float:left;
+}
+
+.divisionTitle{
+	margin:8px 30px;
+	font-size:10pt;
+	font-family: helvetica;
+	color:#938f5a;
+	font-weight:bold;
+}
+
+.sectionTitle a{
+	margin:2px 30px;
+	color:black;
+	font-size:9pt;
+	font-weight:bold;
+	text-decoration:none;
+}
+.sectionTitle a:hover{
+	color:white;
+	cursor:pointer;
+}
+.sectionContent{
+background-color: #938f5a;
+margin: 0 4px;
+display: none;
+}
+
+.sectionContent a{
+margin: 0 26px;
+color:white;
+font-style:italic;
+font-weight:normal;
+font-size:8pt;
+}

@@ -1,0 +1,14 @@
+{
+"id": "url",
+"input": [
+    {"label": "File URL", "type": "char"}
+    ],
+"output": [
+    {"name": "url", "type": "input", "index": 0}
+    ],
+"command": "python url_fetch.py",
+"title": "Upload web data",
+"pbs_comments": ["-S /bin/bash", "-l nodes=1:ppn=1", "-N url_download"],
+"mode": "local",
+"tutorial": " "
+}

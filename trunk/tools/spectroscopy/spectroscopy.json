@@ -1,0 +1,14 @@
+{
+"id": "spectroscopy",
+"input": [
+    {"label": "File", "type": "file_select", "suffix": "h5"},
+    {"label": "algorithm", "type": "select", "options": ["X8C"]}
+    ],
+"output": [
+    {"name": "result", "type": "png"}
+    ],
+"command": "python dpc.py",
+"mode": "cluster",
+"title": "Spectroscopy Fitting",
+"tutorial": "X-ray absorption spectroscopy (XAS) is a widely used technique for determining the local geometric and/or electronic structure of matter."
+}

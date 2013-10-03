@@ -1,0 +1,54 @@
+{% extends "menu_base.html" %}
+
+
+<div id="topbar">
+</div>
+
+{% block content %}
+<style>
+    #data1 
+    {
+        color:black;
+        text-align:center;
+        position: relative;
+        top: 50px;
+        /*left: 50px;*/
+        font-size:16px;
+    }
+</style>
+
+    {% if fullname %}
+    <div id="data1">
+    <h3 style="top:500px">You account information is listed as below:</h3>
+    <br>
+    <li>user name: {{fullname}}</li>
+    <li>email</li>
+    <li>history</li>
+    <br>
+    To logout, please click <a style="font-size:12pt; color: black;" href="/accounts/logout">here.</a> 
+    </div>
+    {% else %}
+    {% if form.errors %}
+        <p class="error">Sorry, that's not a valid username or password</p>
+    {% endif %}
+
+    <div id="data1">
+    <form action="/accounts/auth/" method="post" style="text-align:center">{% csrf_token %}
+        <label for="username">Username:</label>
+        <input type="text" name="username" value="" id="username">
+        <br>
+        <label for="password">Password:</label>
+        <input type="password" name="password" value="" id="password">
+        <br>
+        <input type="submit" value="login"> 
+    </form>
+
+    <br>
+    <p style="font-size:16px;text-align:center"> <a href="/accounts/register/">New user</a></p>
+    <!--<p class="general"><a href="/articles/all_beamlines/" style="color:white;font-size:15px">Anonymity</a></p>-->
+    </div>
+    {% endif %}    
+{% endblock %}
+
+
+

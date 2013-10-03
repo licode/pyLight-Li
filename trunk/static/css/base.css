@@ -1,0 +1,120 @@
+html,body {
+    text-align: center;
+    width: 100%;
+    font-family: helvetica;
+    height:100%;
+}
+
+#topbar{
+    width: 100%;
+    height: 48px;
+    border-bottom: solid 1px black;
+}
+
+#menubar{
+    width: 1024px;
+    height: 100%;
+    border-right: solid 1px black;
+    border-left: solid 1px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#leftbar {
+	position:absolute;
+	top:49px;
+	bottom:30px;
+    width: 200px;
+}
+
+#content {
+	position:absolute;
+	top:49px;
+	bottom:30px;
+	left:200px;
+	right:200px;
+}
+#content p{
+	font-size:10pt;
+	text-align:justify;
+}
+
+#rightbar{
+	position:absolute;
+	top:49px;
+	bottom:30px;
+	right:0px;
+    width: 200px;
+}
+
+.caption{
+	height: 60px;
+	line-height: 60px;
+	font-size: 13pt;
+	font-weight:bold;
+}
+
+.menu, .selected{
+	float: left;
+	height: 100%;
+	border-left: solid 1px black;
+	padding: 0px 17px;
+	font-size:10pt;
+    line-height:48px;
+    font-weight:bold;
+}
+.menu:hover {
+	background-color: black;
+	color: white;
+}
+.menu:hover a{
+	color: white;
+}
+.menu a{
+	text-decoration: none;
+	color: black;
+}
+
+.selected{
+    background-color: black;
+}
+.selected a{
+	text-decoration: none;
+	color: white;
+}
+
+#user{
+	color:#b5b076;
+	float: left;
+	height: 100%;
+	border-left: solid 1px black;
+	padding: 0px 6px;
+	font-size:8pt;
+    line-height:48px
+}
+
+#progressbar {
+	height: 20px;
+	font-size:8pt;
+	margin-top: 14px;
+	margin-right: 15px;
+	float:right;
+	width: 92px;
+	background-color: black;
+	line-height:20px;
+	color: white;
+}
+
+.footer{
+	position:absolute;
+	height: 30px;
+	bottom: 0px;
+	width:100%;
+	font-size: 8pt;
+	font-weight:bold;
+}
+
+* {
+	margin: 0;
+}
+

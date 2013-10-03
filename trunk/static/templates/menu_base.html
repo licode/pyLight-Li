@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block leftbar %}
+	<link rel="stylesheet" href="{% static "css/panel.css" %}">
+	
+	<div class="panel">
+		<div class="panel_head">Tools</div>
+		<div class="panel_content">
+			<iframe name="frame_tool" frameborder="0" scrolling="yes" style="width:100%;height:100%" src="/frame/tool_menu/">
+		  		<p>Your browser does not support iframes.</p>
+			</iframe>
+		</div>
+	</div>
+	<div style="height:10px"></div>
+{% endblock %}
+
+{%block content %}
+	<iframe name="frame_main" frameborder="0" scrolling="yes" style="width:100%;height:100%" src="{{ src }}">
+		  		<p>Your browser does not support iframes.</p>
+	</iframe>
+{% endblock %}
+
+{%block rightbar %}
+	<div class="panel">
+		<div class="panel_head">History</div>
+		<div class="panel_content">
+			<iframe name="frame_right" frameborder="0" scrolling="yes" style="width:100%;height:100%" src="/history/">
+		  		<p>Your browser does not support iframes.</p>
+			</iframe>
+		</div>
+	</div>
+{% endblock %}

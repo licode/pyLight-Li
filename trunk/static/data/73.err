@@ -1,0 +1,256 @@
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    os.makedirs(self.__directory)
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError:     os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+[Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSError    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+OSErrorOSError:     mkdir(name, mode)
+OSErrorTraceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+: [Errno 17] File exists: 'experiment'
+[Errno 17] File exists: 'experiment'
+: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+OSError: [Errno 17] File exists: 'experiment'
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+OSError: [Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSErrorTraceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+: [Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+OSError: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    mkdir(name, mode)
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+OSError: [Errno 17] File exists: 'experiment'
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
+Traceback (most recent call last):
+  File "./DPC.py", line 251, in <module>
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    dpc = DPC()
+  File "./DPC.py", line 26, in __init__
+    os.makedirs(self.__directory)
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError:     os.makedirs(self.__directory)
+[Errno 17] File exists: 'experiment'
+  File "/software/anaconda/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 17] File exists: 'experiment'
